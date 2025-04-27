@@ -45,3 +45,7 @@ Allow users to select both source and target languages.
 📌 Author
 Developed with ❤️ using Python by Aryan Kumar Ojha
 
+Explanation:
+You let the user enter the target language (like 'en', 'hi', 'fr', etc.).
+The program dynamically adjusts the translation by setting the dest argument accordingly.
+
